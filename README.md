@@ -2,16 +2,6 @@
 
 A modern, responsive personal portfolio website built with React.js featuring a sleek dark theme design. This portfolio showcases my skills, projects, and professional experience as a Full Stack Developer.
 
-## 🚀 Features
-
-- **Modern Dark Theme**: Elegant dark color scheme with teal and purple accents
-- **Responsive Design**: Fully responsive across desktop, tablet, and mobile devices
-- **Smooth Animations**: Framer Motion powered animations for enhanced user experience
-- **Interactive Components**: Hover effects, smooth scrolling, and engaging interactions
-- **Professional Sections**: Hero, About, Skills, Projects, and Contact sections
-- **Contact Form**: Functional contact form with validation
-- **SEO Optimized**: Meta tags and proper semantic HTML structure
-
 ## 🛠️ Technologies Used
 
 - **React.js** - Frontend framework
@@ -107,25 +97,3 @@ src/
 └── index.css
 ```
 
-## 🎯 Key Features
-
-- **Performance Optimized**: Fast loading times and smooth animations
-- **Mobile First**: Responsive design that works on all devices
-- **Professional Presentation**: Clean, modern design that showcases skills effectively
-- **Easy Customization**: CSS variables for easy theme customization
-- **SEO Friendly**: Proper meta tags and semantic HTML
-
-## 📞 Contact
-
-- **Email**: pravin2210019@ssn.edu.in
-- **Phone**: +91 89257 01916
-- **GitHub**: [github.com/Pravin-byte](https://github.com/Pravin-byte)
-- **Location**: Chennai, Tamil Nadu, India
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Built with ❤️ by Pravin M
